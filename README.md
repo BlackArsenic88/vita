@@ -1,7 +1,6 @@
 # Abraham N. Doe  
 Philadelphia, PA 19119  
-📅 [Schedule Consultation](https://calendly.com/abrahamdoe/new-meeting)
-📧 [abrahamdoe@gmail.com](mailto:abrahamdoe@gmail.com)  
+📅 [Schedule a Free Consultation](https://calendly.com/abrahamdoe/new-meeting) 
 
 ---
 
