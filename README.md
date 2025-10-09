@@ -1,6 +1,6 @@
 # Abraham N. Doe  
 Philadelphia, PA 19119  
-📞 (215) 888-1535  
+📅 [Schedule Consultation](https://calendly.com/abrahamdoe/new-meeting)
 📧 [abrahamdoe@gmail.com](mailto:abrahamdoe@gmail.com)  
 🌐 [CV Website](https://blackarsenic88.github.io/cv/)  
 
@@ -74,7 +74,6 @@ End-to-end expertise in AI, ML, and LLMs through production-ready data pipelines
 
 ### [Testandi](http://www.testandi.com)  
 Portfolio management and financial analysis algorithms that simplify investing, save time, reduce risks, and maximize returns. Uses Modern Portfolio Theory to identify the highest Sharpe ratio, delivering efficient frontier portfolios.  
-
 
 
 
