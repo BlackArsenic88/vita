@@ -2,7 +2,6 @@
 Philadelphia, PA 19119  
 📅 [Schedule Consultation](https://calendly.com/abrahamdoe/new-meeting)
 📧 [abrahamdoe@gmail.com](mailto:abrahamdoe@gmail.com)  
-🌐 [CV Website](https://blackarsenic88.github.io/cv/)  
 
 ---
 
